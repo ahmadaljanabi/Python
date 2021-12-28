@@ -1,3 +1,3 @@
 # Python
 
-all the projectes i have done on Python
+All the projects I have done with Python
